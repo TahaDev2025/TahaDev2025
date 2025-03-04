@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">Hi 👋, I'm Taha Yeganeh</h1>
-<h3 align="center">A passionate beginner Artificial Intelligence developer from Iran</h3>
+<h3 align="center">A passionate beginner Programmer developer from Iran</h3>
 
 - 🔭 I’m currently working on **getting better everyday**
 
